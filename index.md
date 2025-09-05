@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blog
+title: Xiaopeng's Blog 
 ---
 
-博客正文
+# My resume
+
